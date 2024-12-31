@@ -6,6 +6,9 @@
 - ⚡ Fun fact: I am a life long Learner.
 
 
+## 🧑‍✈️ About Me: 
+I am a passionate Full-Stack PHP Laravel Developer.As a passionate and dedicated backend developer, I thrive on building robust,scalable, and high-performance systems that power dynamic web applications. With a strong foundation in server-side technologies, databases,and APIs, I enjoy tackling complex challenges and optimizing code to deliver efficient and reliable solutions.My approach focuses on clean, user-friendly, maintainable code and leveraging modern development frameworks to create seamless user experiences. I am continuously exploring new technologies and methodologies to stay ahead in the ever-evolving landscape of backend development, while always prioritizing security, scalability, and performance in every project.
+
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/RDuBMrFu) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/md-abed-hasan-fahim-347917244?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) 
 
